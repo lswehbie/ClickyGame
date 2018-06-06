@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "persian",
+        "image": "https://www.cat-world.com.au/wp-content/uploads/2018/02/persian.jpg"
+    },
+    {
+        "breed": "siamese",
+        "image": "https://www.cat-world.com.au/wp-content/uploads/2017/06/siamese227.jpg"
+    },
+    {
+        "breed": "mainecoon",
+        "image": "https://www.cat-world.com.au/wp-content/uploads/2009/07/maine-coon123.jpg"
+    },
+    {
+        "breed": "ragdoll",
+        "image": "https://www.cat-world.com.au/wp-content/uploads/2017/06/ragdoll223.jpg"
+    },
+    {
+        "breed": "sphynx",
+        "image": "https://www.cat-world.com.au/wp-content/uploads/2018/02/sphynx7.jpg"
+    },
+    {
+        "breed": "abyssinian",
+        "image": "https://cat-world.com.au/wp-content/uploads/2017/07/abyssinian111.jpg"
+    },
+    {
+        "breed": "exoticshorthair",
+        "image": "https://www.cat-world.com.au/wp-content/uploads/2018/02/exotic-shorthair.jpg"
+    },
+    {
+        "breed": "burmese",
+        "image": "https://www.cat-world.com.au/wp-content/uploads/2009/07/burmese-header.jpg"
+    },
+    {
+        "breed": "bengal",
+        "image": "https://www.cat-world.com.au/images/bengal222.jpg"
+    },
+    {
+        "breed": "munchkin",
+        "image": "https://www.cat-world.com.au/images/munchkin-cat-profile.jpg"
+    },
+    {
+        "breed": "birman",
+        "image": "https://www.cat-world.com.au/wp-content/uploads/2018/02/birman4.jpg"
+    },
+    {
+        "breed": "siberian",
+        "image": "https://www.pets4homes.co.uk/images/breeds/159/large/61e9830e83d9a393b607472f5b4416f3.jpg"
+    },
+    {
+        "breed": "himalayan",
+        "image": "http://cdn2-www.cattime.com/assets/uploads/gallery/himalayan-cats-and-kittens/himalayan-cats-and-kittens-6.jpg"
+    },
+    {
+        "breed": "peterbald",
+        "image": "https://www.cat-world.com.au/images/peterbald-cat.jpg"
+    },
+    {
+        "breed": "laperm",
+        "image": "http://cattime.com/assets/uploads/gallery/laperm-cats-and-kittens/laperm-cats-kittens-1.jpg"
+    }
+]
