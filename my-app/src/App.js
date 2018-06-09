@@ -25,17 +25,17 @@ class App extends Component {
         }
     }
 
-    selectDog = breed => {
+    selectKitten = breed => {
         const findKitten = this.state.unselectedKitten.find(item => item.breed === breed);
 
-        if(findDog === undefined) {
+        if(findKitten === undefined) {
             // failure to select a new cat
             this.setState({ 
                 message: "You guessed incorrectly! TRY AGAIN",
                 topScore: (this.state.curScore > this.state.topScore) ? this.state.curScore : this.state.topScore,
                 curScore: 0,
                 kitten: kitten,
-                unselectedKitten: Kitten
+                unselectedKitten: kitten
             });
         }
         else {
@@ -50,7 +50,7 @@ class App extends Component {
             });
         }
 
-        this.shuffleArray(dogs);
+        this.shuffleArray(kitten);
     };
 
     render() {
@@ -63,7 +63,7 @@ class App extends Component {
                 />
                 <Title />
                 {
-                    this.state.kitten.map(dog => (
+                    this.state.kitten.map(kitten => (
                         <CatCard
                             breed={kitten.breed}
                             image={kitten.image}
